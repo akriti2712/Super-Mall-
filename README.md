@@ -93,9 +93,9 @@ super-mall/
 
 # Screenshots
 
-<img width="1366" height="768" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/1346499c-9cee-4ab8-a9a5-0dcaf152b90b" />
+<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/bece21bd-50d0-4bb4-91c9-f1df1e3037b6" />
 
-<img width="1366" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/bac90fd8-b6d3-460c-a00f-8b58b24ecdd6" />
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/ad4c0786-8384-4b41-a8a5-715bf92d507b" />
 
 
 ## 👩‍🎓 Author
